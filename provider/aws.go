@@ -33,7 +33,7 @@ import (
 const (
 	evaluateTargetHealth = true
 	recordTTL            = 300
-	maxChangeCount       = 4000
+	maxChangeCount       = 500
 )
 
 var (
